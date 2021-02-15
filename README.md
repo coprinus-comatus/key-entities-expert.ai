@@ -6,7 +6,7 @@ This repository is linked to the following article:
 
 expert.ai makes NLP easy, it includes many features:
 - an NLP pipeline (tokenization, lemmatization, PoS tagging, dependency parsing, syntactic parsing, word-sense disambiguation) and 
-- a ready-to-use IPTC classifier
+- a ready-to-use IPTC Media Topics classifier
 - geographic taxonomy classifier
 - sentiment analysis
 - Named entity recognition (NER)
